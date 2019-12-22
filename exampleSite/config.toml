@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://cosmin-caraman.netlify.com/"
+baseURL = "https://cosmin-caraman.netlify.com/"
 title = "Cosmin Caraman"
 theme = "meghna-hugo"
 # post pagination
