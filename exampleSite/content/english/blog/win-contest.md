@@ -6,7 +6,7 @@ image: images/blog/blog-post-1.jpg
 description : "This is meta description"
 ---
 
-Cosmin winsa first prize in the drawing category in a contest organized by the Figurative Artists Society in Romania, with a portrait of his grandma.
+Cosmin wins first prize in the drawing category in a contest organized by the Figurative Artists Society in Romania, with a portrait of his grandma.
 
 > Cosmin excells in patience and passion for detail. He will become a great portrait artist.
 

@@ -1,6 +1,7 @@
 ---
 title: "Cosmin Caraman"
 email: "email2@example.org"
+image: images/about/cosmin.jpg
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"
