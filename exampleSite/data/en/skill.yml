@@ -1,6 +1,6 @@
 ################################# Skill ##################################
 skill:
-  enable : true
+  enable : false
   title : My Skills
   subtitle : ""
   content : 
