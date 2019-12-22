@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
-title = "Meghna"
+baseURL = "http://cosmin-caraman.netlify.com/"
+title = "Cosmin Caraman"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -45,39 +45,24 @@ URL = "plugins/wow/wow.min.js"
 [menu]
 
   [[menu.main]]
-  name = "About Us"
+  name = "About Me"
   URL = "about"
   weight = 1
 
   [[menu.main]]
-  name = "Service"
-  URL = "services"
-  weight = 2
-
-  [[menu.main]]
   name = "Portfolio"
   URL = "portfolio"
-  weight = 3
-
-  [[menu.main]]
-  name = "Team"
-  URL = "team"
-  weight = 4
-
-  [[menu.main]]
-  name = "Pricing"
-  URL = "pricing"
-  weight = 5
+  weight = 2
 
   [[menu.main]]
   name = "Blog"
   URL = "blog"
-  weight = 6
+  weight = 3
 
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 7
+  weight = 4
 
 
 
@@ -133,10 +118,10 @@ link = "#"
   weight = 1
   home = "Home"
 
-  ################################ France Language ########################
-  [Languages.fr]
-  languageName = "Fr"
-  languageCode = "fr-fr"
-  contentDir = "content/french"
+  ################################ Romanian Language ########################
+  [Languages.ro]
+  languageName = "Ro"
+  languageCode = "ro-ro"
+  contentDir = "content/romanian"
   weight = 2
-  home = "Accueil"
+  home = "Acasa"
