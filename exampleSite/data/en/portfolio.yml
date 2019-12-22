@@ -6,6 +6,9 @@ portfolio:
     - filter_Type : drawing
       filter_Title : Drawing
       
+    - filter_Type : painting
+      filter_Title : Painting
+      
     - filter_Type : digital
       filter_Title : Digital
 
@@ -13,11 +16,23 @@ portfolio:
     - types : ["drawing"]
       image : images/portfolio/portfolio-1.jpg
       URL : #
-      title : Tag Design
+      title : Grandma
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
       
-    - types : ["digital"]
+    - types : ["painting"]
       image : images/portfolio/portfolio-2.jpg
       URL : #
-      title : Sound system
+      title : Sunflowers
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      
+    - types : ["drawing"]
+      image : images/portfolio/portfolio-3.jpg
+      URL : #
+      title : Mother
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      
+    - types : ["drawing"]
+      image : images/portfolio/portfolio-4.jpg
+      URL : #
+      title : Father
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
