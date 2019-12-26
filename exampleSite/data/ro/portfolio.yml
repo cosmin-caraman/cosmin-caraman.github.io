@@ -26,12 +26,6 @@ portfolio:
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
       
     - types : ["drawing"]
-      image : images/portfolio/portfolio-3.jpg
-      URL : #
-      title : Mama
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      
-    - types : ["drawing"]
       image : images/portfolio/portfolio-4.jpg
       URL : #
       title : Tata

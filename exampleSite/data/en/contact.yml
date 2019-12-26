@@ -6,20 +6,17 @@ contact:
   content : Send your enquiry and I will get back to you as soon as possible. Enquiries about art purchase are accepted and encouraged.
   form_Action: "#" #contact form works with https://formspree.io
   map:
-    enable : true
+    enable : false
     gmapAPI : "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
     mapLatitude : 51.5223477
     mapLongitude: -0.1622023
 
   contact_Details :
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Galati, Romania"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: hello@meghna.com"
